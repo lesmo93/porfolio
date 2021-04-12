@@ -272,7 +272,7 @@ img{
 }
 .education__data
 {
-  display: flex;
+  /*display: flex;*/
   justify-content: space-between;
   align-items: center;
   position: relative;
