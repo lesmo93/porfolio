@@ -359,7 +359,9 @@ img{
 {
   width: 250px;
   height: 250px;
-  border: black solid 2px;
+  /*border: black solid 2px;*/
+  border-radius: .5rem;
+  box-shadow: 0 4px 25px rgb(14 36 49 / 15%);
   padding: 10px;
   text-align: center;
   margin-top: 10px;
