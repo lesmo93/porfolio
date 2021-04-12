@@ -544,6 +544,9 @@ img{
   .contact__container{
     justify-items: center;
   }
+  .education__data{
+    display:flex;
+  }
 }
 
 @media screen and (min-width: 1024px){
