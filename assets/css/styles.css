@@ -348,6 +348,7 @@ img{
 }
 .skills__img{
   border-radius: .5rem;
+  max-width:250px;
 }
 /* familiar language*/
 .familiar__container
@@ -558,5 +559,14 @@ img{
   }
   .izquierda{ 
     width:60%
+  }
+}
+@media screen and (max-width: 768px){
+
+  .derecha{ 
+    width:100%
+  }
+  .izquierda{ 
+    width:100%
   }
 }
